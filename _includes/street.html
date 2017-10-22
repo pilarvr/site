@@ -3,8 +3,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Ruas</h2>
-                    <h3 class="section-subheading text-muted">Descubra algumas ruas já pensadas ;)</h3>
+                    <h2 class="section-heading">A Rua</h2>
+                    <h3 class="section-subheading text-muted">Vejá como sua rua pode ser transformada ;)</h3>
                 </div>
             </div>
             <div class="row">
@@ -13,13 +13,18 @@
                     <a href="{{ post.frameurl | prepend: site.baseurl }}" class="portfolio-link" target="_blank">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
+                                <img src="img/vr.png" class="img-responsive img-centered" alt="vr">
                             </div>
                         </div>
                         <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                 </div>
             {% endfor %}
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <p class="section-subheading text-muted text-more-muted">Clique sobre as imagens para visualizalas em Realidade Virtual.</p>
+                </div>
             </div>
         </div>
     </section>

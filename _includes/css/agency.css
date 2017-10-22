@@ -409,7 +409,7 @@ section h3.section-subheading {
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
     position: absolute;
-    top: 50%;
+    top: 40%;
     width: 100%;
     height: 20px;
     margin-top: -12px;
@@ -889,4 +889,10 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+.text-more-muted {
+    font-style: italic;
+    opacity: .7;
+    margin-bottom: 0;
 }
