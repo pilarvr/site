@@ -1,0 +1,7 @@
+---
+title: Nova Rua
+layout: frame
+date: 2017-10-22
+thumbnail: street-new.jpg
+frameurl: nova-rua
+---

@@ -1,0 +1,7 @@
+---
+title: Antiga Rua
+layout: frame
+date: 2017-10-21
+thumbnail: street-old.jpg
+frameurl: antiga-rua
+---
