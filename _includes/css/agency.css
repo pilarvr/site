@@ -370,6 +370,10 @@ section h3.section-subheading {
     }
 }
 
+#services .col-lg-8 {
+    margin-bottom: 50px;
+}
+
 .service-heading {
     margin: 15px 0;
     text-transform: none;
