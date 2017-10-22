@@ -9,29 +9,29 @@ description: "Pensando um Incrível, Louca e Amorosa Rua."
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: André Figueredo
+  pic: Andre_RenderGuy
+  position: Render Guy
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Arlindo Neto
+  pic: Arlindo_ModelGuy
+  position: Model Guy
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Bruno Lima
+  pic: Bruno_WebGuy
+  position: Web Guy
 
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Caio Filizola
+  pic: Caio_GameGuy
+  position: Game Guy
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Charles Araújo
+  pic: Charles_UnityGuy
+  position: Unity Guy
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Rose Maria
+  pic: Rose_PassionateGirl
+  position: Passionate Girl
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
