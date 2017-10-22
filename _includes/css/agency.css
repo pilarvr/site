@@ -570,6 +570,13 @@ section h3.section-subheading {
     margin-bottom: 0;
 }
 
+.timeline .timeline-body img {
+    max-width: 50%; 
+    height: auto;
+    margin: 10px 0 0 0;
+    display: inline;
+}
+
 @media(min-width:768px) {
     .timeline:before {
         left: 50%;
